@@ -45,7 +45,7 @@ const DashboardWrapperLayout = ({ children }: Props) => {
 const DashboardWrapper = ({ children }: Props) => {
   return (
     <StoreProvider>
-      <DashboardWrapperLayout>{children}</DashboardWrapperLayout>{" "}
+      <DashboardWrapperLayout>{children}</DashboardWrapperLayout>
     </StoreProvider>
   );
 };

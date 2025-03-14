@@ -1,6 +1,6 @@
 # Inventory Dashboard Project
 
-This project is a practice Next.js application designed to demonstrate a full-stack dashboard experience. It features an inventory management system with comprehensive statistics, built using a modern tech stack.
+This project is a practice Next.js. It features an inventory management system with comprehensive statistics.
 
 ## Technologies Used
 
